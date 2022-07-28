@@ -22,3 +22,5 @@ You can scan air for your device and choose it for connection if device found it
 Avaliable commands after choosing A2DP Sink device:
 
 ![image](https://user-images.githubusercontent.com/23205055/181561497-cc1a29a4-e9ef-4050-9da6-7c312f583579.png)
+
+For all infomation please write to my telegram: @megalloid
